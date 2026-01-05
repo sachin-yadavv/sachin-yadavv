@@ -67,7 +67,7 @@ Hi 👋, I’m **Sachin Yadav**
 
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sachin-yadavv&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sachin-yadavv&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sachin-yadavv&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-yadavv&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
