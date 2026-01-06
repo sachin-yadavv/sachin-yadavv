@@ -5,9 +5,6 @@ Hi 👋, I’m **Sachin Yadav**
 
 🌐 **Portfolio:** [https://portfolio-ebon-kappa-85.vercel.app/](https://portfolio-ebon-kappa-85.vercel.app/)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sachin-yadavv&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
 
 
@@ -94,7 +91,9 @@ Hi 👋, I’m **Sachin Yadav**
 
 
 
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sachin-yadavv&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 
 
