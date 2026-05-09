@@ -12,7 +12,8 @@ Hi 👋, I’m **Sachin Yadav**
 <!-- social media  -->
 
 ### Connect with me
-<p align="left">
+
+<p>
   <a href="https://instagram.com/sachin_.ydvv" title="Instagram">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
   </a>
@@ -35,32 +36,88 @@ Hi 👋, I’m **Sachin Yadav**
 
 <!-- tech stack -->
 
-### Languages and Tools
-<p align="left">
-<!-- Row 1: Languages & Core Frameworks -->
-<img title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" style="margin: 8px;"/>
-<img title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" style="margin: 8px;"/>
-<img title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" style="margin: 8px;"/>
-<img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" style="margin: 8px;"/>
-<img title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" style="margin: 8px;"/>
-<img title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" style="margin: 8px;"/>
-<img title="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" style="margin: 8px;"/>
-<img title="Vite" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="45" height="45" style="margin: 8px;"/>
-<img title="Socket.io" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="45" height="45" style="margin: 8px;"/>
-</p>
-<p align="left">
-<!-- Row 2: Databases, Tools & Data Science -->
-<img title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" style="margin: 8px;"/>
-<img title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" style="margin: 8px;"/>
-<img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" style="margin: 8px;"/>
-<img title="GitHub" src="https://cdn.simpleicons.org/github/white" width="45" height="45" style="margin: 8px;"/>
-<img title="Vercel" src="https://cdn.simpleicons.org/vercel/white" width="45" height="45" style="margin: 8px;"/>
-<img title="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45" style="margin: 8px;"/>
-<img title="NumPy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" style="margin: 8px;"/>
-<img title="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" style="margin: 8px;"/>
-<img title="Matplotlib" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45" height="45" style="margin: 8px;"/>
-</p>
+### 🛠️ Languages and Tools
 
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/><br>
+      <sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/><br>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/><br>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/><br>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/><br>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/><br>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/><br>
+      <sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="45" height="45"/><br>
+      <sub><b>Vite</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="45" height="45"/><br>
+      <sub><b>Socket.io</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45"/><br>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/><br>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/><br>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/github/ffffff" width="45" height="45"/><br>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/vercel/ffffff" width="45" height="45"/><br>
+      <sub><b>Vercel</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45"/><br>
+      <sub><b>Power BI</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/><br>
+      <sub><b>NumPy</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/><br>
+      <sub><b>Pandas</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45" height="45"/><br>
+      <sub><b>Matplotlib</b></sub>
+    </td>
+  </tr>
+</table>
 
 
 ### 📊 GitHub Stats
