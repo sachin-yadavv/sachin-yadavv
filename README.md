@@ -3,7 +3,7 @@ Hi 👋, I’m **Sachin Yadav**
 🎓 Pre-final year undergraduate at **BIT Mesra**  
 🤖 Pursuing  **Artificial Intelligence & Machine Learning**
 
-🌐 **Portfolio:** [https://portfolio-ebon-kappa-85.vercel.app/](https://portfolio-ebon-kappa-85.vercel.app/)
+🌐 **Portfolio:** [https://portfolio-new-ten-green.vercel.app/](https://portfolio-new-ten-green.vercel.app/)
 
 
 
